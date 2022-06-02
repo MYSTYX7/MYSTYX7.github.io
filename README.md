@@ -1,7 +1,7 @@
 <p align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=MYSTYX7&color=orange&style=for-the-badge&label=VIEWS" alt="Abhinav"/>
   <img align="right" src="https://img.shields.io/github/followers/MYSTYX7?color=orange&label=Followers&style=for-the-badge" alt="Abhinav" />
-  <h1 align="center">Hey there.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+  <h1 align="center">Hey there.. </h1>
 </p>
 
 My name is ***Abhinav Singh Chauhan***, I'm energetic, cooperative and self-motivated, believes in an optimistic technology-driven future.
